@@ -1,3 +1,0 @@
-Usia;Kelompok Usia
-Usia      ;Kelompok Usia       
-          ;                    
